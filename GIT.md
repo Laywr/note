@@ -10,7 +10,7 @@ git：分布式版本控制工具，没有中央服务器，每个人的电脑�
 
 ### git的常用命令流程图
 
-![image-20201221154522610](C:\Users\yk\AppData\Roaming\Typora\typora-user-images\image-20201221154522610.png)
+![img](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg2018.cnblogs.com%2Fblog%2F1691449%2F201910%2F1691449-20191016120107889-1635683397.png&refer=http%3A%2F%2Fimg2018.cnblogs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1617761608&t=7aa30362f9d36edeebf735a6dfa375c4)
 
 ### 创建ssh密钥和公钥
 
